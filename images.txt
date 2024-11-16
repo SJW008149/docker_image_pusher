@@ -1,2 +1,1 @@
-php:8-apache
-nfs-subdir-provisioner:4.0.2
+nfs-subdir-provisioner:v4.0.2
